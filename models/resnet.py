@@ -111,21 +111,37 @@ def ResNet20():
     print("current model: ResNet20")
     return ResNet(BasicBlock, [2, 2, 3, 2])
 
+def ResNet32():
+    print("current model: ResNet32")
+    return ResNet(BasicBlock, [3, 4, 5, 3])
+
 def ResNet34():
     return ResNet(BasicBlock, [3, 4, 6, 3])
 
+def ResNet44():
+    print("current model: ResNet44")
+    return ResNet(BasicBlock, [3, 6, 9, 3])
 
 def ResNet50():
     return ResNet(Bottleneck, [3, 4, 6, 3])
 
+def ResNet56():
+    print("current model: ResNet56")
+    return ResNet(Bottleneck, [3, 4, 8, 3])
 
 def ResNet101():
     return ResNet(Bottleneck, [3, 4, 23, 3])
 
-
+def ResNet110():
+    print("current model: ResNet110")
+    return ResNet(Bottleneck, [3, 5, 25, 3])
+    
 def ResNet152():
     return ResNet(Bottleneck, [3, 8, 36, 3])
 
+def ResNet1202():
+    print("current model: ResNet1202")
+    return ResNet(Bottleneck, [30, 80, 260, 30])
 
 def test():
     net = ResNet18()
