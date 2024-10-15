@@ -114,7 +114,7 @@ def train(epoch):
         total += targets.size(0)
         correct += predicted.eq(targets).sum().item()
 
-        sum_loss += test_loss/(batch_idx+1)
+        sum_loss += train_loss/(batch_idx+1)
         sum_acc += 100.*correct/total
         num += 1
 
