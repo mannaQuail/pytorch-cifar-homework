@@ -120,7 +120,7 @@ def train(epoch):
 
     sum_loss = sum_loss/num
     sum_acc = sum_acc/num
-    print(f"Train set | Loss : {sum_loss} | Acc : {sum_acc}")
+    print(f"Train set | Loss : {round(sum_loss, 3)} | Acc : {round(sum_acc, 2)}")
 
         # progress_bar(batch_idx, len(trainloader), 'Loss: %.3f | Acc: %.3f%% (%d/%d)' % (train_loss/(batch_idx+1), 100.*correct/total, correct, total))
 
@@ -151,7 +151,7 @@ def test(epoch):
 
         sum_loss = sum_loss/num
         sum_acc = sum_acc/num
-        print(f"Test set  | Loss : {sum_loss} | Acc : {sum_acc}")
+        print(f"Test set  | Loss : {round(sum_loss, 3)} | Acc : {round(sum_acc, 2)}")
         # progress_bar(batch_idx, len(testloader), 'Loss: %.3f | Acc: %.3f%% (%d/%d)' % (test_loss/(batch_idx+1), 100.*correct/total, correct, total))
 
     # Save checkpoint.
