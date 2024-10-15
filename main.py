@@ -170,7 +170,7 @@ def test(epoch):
 
 
 if __name__ == '__main__':
-    for epoch in range(start_epoch, start_epoch+100):
+    for epoch in range(start_epoch, start_epoch+150):
         train(epoch)
         test(epoch)
         scheduler.step()
