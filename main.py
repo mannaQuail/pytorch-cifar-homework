@@ -151,7 +151,7 @@ def test(epoch):
 
         sum_loss = sum_loss/num
         sum_acc = sum_acc/num
-        print(f"Test set  | Loss : {round(sum_loss, 3)} | Acc : {round(sum_acc, 2)}")
+        print(f"Test  set | Loss : {round(sum_loss, 3)} | Acc : {round(sum_acc, 2)}")
         # progress_bar(batch_idx, len(testloader), 'Loss: %.3f | Acc: %.3f%% (%d/%d)' % (test_loss/(batch_idx+1), 100.*correct/total, correct, total))
 
     # Save checkpoint.
@@ -170,7 +170,7 @@ def test(epoch):
 
 
 if __name__ == '__main__':
-    for epoch in range(start_epoch, start_epoch+150):
+    for epoch in range(start_epoch, start_epoch+200):
         train(epoch)
         test(epoch)
         scheduler.step()
