@@ -97,6 +97,10 @@ def train(epoch):
     train_loss = 0
     correct = 0
     total = 0
+
+    sum_loss = 0
+    sum_acc = 0
+    num = 0
     for batch_idx, (inputs, targets) in enumerate(trainloader):
         inputs, targets = inputs.to(device), targets.to(device)
         optimizer.zero_grad()
@@ -110,8 +114,15 @@ def train(epoch):
         total += targets.size(0)
         correct += predicted.eq(targets).sum().item()
 
-        progress_bar(batch_idx, len(trainloader), 'Loss: %.3f | Acc: %.3f%% (%d/%d)'
-                     % (train_loss/(batch_idx+1), 100.*correct/total, correct, total))
+        sum_loss += test_loss/(batch_idx+1)
+        sum_acc += 100.*correct/total
+        num += 1
+
+    sum_loss = sum_loss/num
+    sum_acc = sum_acc/num
+    print(f"Train set | Loss : {sum_loss} | Acc : {sum_acc}")
+
+        # progress_bar(batch_idx, len(trainloader), 'Loss: %.3f | Acc: %.3f%% (%d/%d)' % (train_loss/(batch_idx+1), 100.*correct/total, correct, total))
 
 
 def test(epoch):
@@ -121,6 +132,9 @@ def test(epoch):
     correct = 0
     total = 0
     with torch.no_grad():
+        sum_loss = 0
+        sum_acc = 0
+        num = 0
         for batch_idx, (inputs, targets) in enumerate(testloader):
             inputs, targets = inputs.to(device), targets.to(device)
             outputs = net(inputs)
@@ -131,8 +145,14 @@ def test(epoch):
             total += targets.size(0)
             correct += predicted.eq(targets).sum().item()
 
-            progress_bar(batch_idx, len(testloader), 'Loss: %.3f | Acc: %.3f%% (%d/%d)'
-                         % (test_loss/(batch_idx+1), 100.*correct/total, correct, total))
+            sum_loss += test_loss/(batch_idx+1)
+            sum_acc += 100.*correct/total
+            num += 1
+
+        sum_loss = sum_loss/num
+        sum_acc = sum_acc/num
+        print(f"Test set  | Loss : {sum_loss} | Acc : {sum_acc}")
+        # progress_bar(batch_idx, len(testloader), 'Loss: %.3f | Acc: %.3f%% (%d/%d)' % (test_loss/(batch_idx+1), 100.*correct/total, correct, total))
 
     # Save checkpoint.
     acc = 100.*correct/total
