@@ -56,7 +56,7 @@ classes = ('plane', 'car', 'bird', 'cat', 'deer',
 print('==> Building model..')
 # net = VGG('VGG19')
 # net = ResNet18()
-net = ResNet20()
+net = ResNet32()
 # net = PreActResNet18()
 # net = GoogLeNet()
 # net = DenseNet121()
@@ -120,7 +120,7 @@ def train(epoch):
 
     sum_loss = sum_loss/num
     sum_acc = sum_acc/num
-    print(f"Train set | Loss : {round(sum_loss, 3)} | Acc : {round(sum_acc, 2)}")
+    print(f"Train set | Loss : {round(sum_loss, 5)} | Acc : {round(sum_acc, 3)}")
 
         # progress_bar(batch_idx, len(trainloader), 'Loss: %.3f | Acc: %.3f%% (%d/%d)' % (train_loss/(batch_idx+1), 100.*correct/total, correct, total))
 
