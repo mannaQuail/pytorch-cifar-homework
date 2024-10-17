@@ -109,7 +109,7 @@ def ResNet18():
 
 def ResNet20():
     print("current model: ResNet20")
-    return ResNet(BasicBlock, [6, 6, 6])
+    return ResNet(BasicBlock, [3, 3, 3])
 
 def ResNet32():
     print("current model: ResNet32")

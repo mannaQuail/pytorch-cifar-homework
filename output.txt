@@ -1,0 +1,1240 @@
+Epoch: 0
+Train set | Loss : 2.01141 | Acc : 27.662
+Test  set | Loss : 1.56844 | Acc : 41.042
+Saving..
+
+Epoch: 1
+Train set | Loss : 1.44148 | Acc : 46.953
+Test  set | Loss : 1.49299 | Acc : 49.054
+Saving..
+
+Epoch: 2
+Train set | Loss : 1.18262 | Acc : 57.616
+Test  set | Loss : 1.32188 | Acc : 52.891
+Saving..
+
+Epoch: 3
+Train set | Loss : 1.02743 | Acc : 63.275
+Test  set | Loss : 1.19464 | Acc : 60.417
+Saving..
+
+Epoch: 4
+Train set | Loss : 0.91858 | Acc : 67.643
+Test  set | Loss : 1.15645 | Acc : 62.156
+Saving..
+
+Epoch: 5
+Train set | Loss : 0.86289 | Acc : 69.801
+Test  set | Loss : 0.99951 | Acc : 65.979
+Saving..
+
+Epoch: 6
+Train set | Loss : 0.80259 | Acc : 72.029
+Test  set | Loss : 0.85869 | Acc : 70.014
+Saving..
+
+Epoch: 7
+Train set | Loss : 0.76157 | Acc : 73.484
+Test  set | Loss : 0.78658 | Acc : 73.192
+Saving..
+
+Epoch: 8
+Train set | Loss : 0.73354 | Acc : 74.558
+Test  set | Loss : 0.79655 | Acc : 72.687
+
+Epoch: 9
+Train set | Loss : 0.71868 | Acc : 75.024
+Test  set | Loss : 0.79798 | Acc : 72.51
+
+Epoch: 10
+Train set | Loss : 0.70015 | Acc : 75.727
+Test  set | Loss : 0.89143 | Acc : 70.699
+
+Epoch: 11
+Train set | Loss : 0.68914 | Acc : 76.221
+Test  set | Loss : 0.81447 | Acc : 71.968
+
+Epoch: 12
+Train set | Loss : 0.67333 | Acc : 76.624
+Test  set | Loss : 0.76154 | Acc : 73.747
+Saving..
+
+Epoch: 13
+Train set | Loss : 0.6594 | Acc : 77.092
+Test  set | Loss : 0.78284 | Acc : 73.189
+
+Epoch: 14
+Train set | Loss : 0.65459 | Acc : 77.747
+Test  set | Loss : 1.07014 | Acc : 67.919
+
+Epoch: 15
+Train set | Loss : 0.64981 | Acc : 77.616
+Test  set | Loss : 0.91567 | Acc : 70.952
+
+Epoch: 16
+Train set | Loss : 0.64207 | Acc : 78.068
+Test  set | Loss : 1.26522 | Acc : 59.483
+
+Epoch: 17
+Train set | Loss : 0.62982 | Acc : 78.399
+Test  set | Loss : 0.78159 | Acc : 73.918
+Saving..
+
+Epoch: 18
+Train set | Loss : 0.6325 | Acc : 78.169
+Test  set | Loss : 0.78374 | Acc : 74.15
+Saving..
+
+Epoch: 19
+Train set | Loss : 0.62615 | Acc : 78.324
+Test  set | Loss : 1.0405 | Acc : 67.153
+
+Epoch: 20
+Train set | Loss : 0.62029 | Acc : 78.218
+Test  set | Loss : 0.78485 | Acc : 73.57
+
+Epoch: 21
+Train set | Loss : 0.6127 | Acc : 78.777
+Test  set | Loss : 0.81607 | Acc : 72.5
+
+Epoch: 22
+Train set | Loss : 0.61198 | Acc : 78.957
+Test  set | Loss : 0.69796 | Acc : 75.904
+Saving..
+
+Epoch: 23
+Train set | Loss : 0.61284 | Acc : 78.863
+Test  set | Loss : 0.97166 | Acc : 70.236
+
+Epoch: 24
+Train set | Loss : 0.60788 | Acc : 79.036
+Test  set | Loss : 0.62322 | Acc : 78.271
+Saving..
+
+Epoch: 25
+Train set | Loss : 0.60172 | Acc : 79.363
+Test  set | Loss : 0.86001 | Acc : 72.042
+
+Epoch: 26
+Train set | Loss : 0.59337 | Acc : 79.731
+Test  set | Loss : 0.71002 | Acc : 76.111
+
+Epoch: 27
+Train set | Loss : 0.58812 | Acc : 79.496
+Test  set | Loss : 0.91456 | Acc : 70.771
+
+Epoch: 28
+Train set | Loss : 0.58891 | Acc : 79.716
+Test  set | Loss : 0.78404 | Acc : 72.884
+
+Epoch: 29
+Train set | Loss : 0.58455 | Acc : 80.058
+Test  set | Loss : 0.69877 | Acc : 76.424
+
+Epoch: 30
+Train set | Loss : 0.5862 | Acc : 79.81
+Test  set | Loss : 0.64285 | Acc : 77.539
+
+Epoch: 31
+Train set | Loss : 0.57477 | Acc : 80.017
+Test  set | Loss : 0.68845 | Acc : 76.616
+
+Epoch: 32
+Train set | Loss : 0.57556 | Acc : 80.2
+Test  set | Loss : 1.05075 | Acc : 67.424
+
+Epoch: 33
+Train set | Loss : 0.58692 | Acc : 79.891
+Test  set | Loss : 0.73858 | Acc : 74.859
+
+Epoch: 34
+Train set | Loss : 0.56915 | Acc : 80.098
+Test  set | Loss : 0.66221 | Acc : 76.606
+
+Epoch: 35
+Train set | Loss : 0.57358 | Acc : 79.95
+Test  set | Loss : 0.64354 | Acc : 78.287
+
+Epoch: 36
+Train set | Loss : 0.56192 | Acc : 80.546
+Test  set | Loss : 0.72412 | Acc : 75.227
+
+Epoch: 37
+Train set | Loss : 0.56538 | Acc : 80.411
+Test  set | Loss : 0.6383 | Acc : 78.47
+
+Epoch: 38
+Train set | Loss : 0.56908 | Acc : 80.264
+Test  set | Loss : 1.09082 | Acc : 68.185
+
+Epoch: 39
+Train set | Loss : 0.56739 | Acc : 80.589
+Test  set | Loss : 0.66946 | Acc : 77.105
+
+Epoch: 40
+Train set | Loss : 0.55375 | Acc : 80.813
+Test  set | Loss : 0.65947 | Acc : 77.104
+
+Epoch: 41
+Train set | Loss : 0.56364 | Acc : 80.588
+Test  set | Loss : 0.70513 | Acc : 75.731
+
+Epoch: 42
+Train set | Loss : 0.55161 | Acc : 81.072
+Test  set | Loss : 0.68594 | Acc : 76.22
+
+Epoch: 43
+Train set | Loss : 0.55958 | Acc : 80.653
+Test  set | Loss : 0.68656 | Acc : 76.639
+
+Epoch: 44
+Train set | Loss : 0.55549 | Acc : 80.913
+Test  set | Loss : 0.92467 | Acc : 70.583
+
+Epoch: 45
+Train set | Loss : 0.55082 | Acc : 81.154
+Test  set | Loss : 0.68031 | Acc : 77.259
+
+Epoch: 46
+Train set | Loss : 0.54374 | Acc : 81.255
+Test  set | Loss : 0.73754 | Acc : 74.886
+
+Epoch: 47
+Train set | Loss : 0.54749 | Acc : 81.214
+Test  set | Loss : 0.59956 | Acc : 80.04
+Saving..
+
+Epoch: 48
+Train set | Loss : 0.54685 | Acc : 81.279
+Test  set | Loss : 0.58683 | Acc : 80.104
+Saving..
+
+Epoch: 49
+Train set | Loss : 0.54377 | Acc : 81.149
+Test  set | Loss : 0.63608 | Acc : 78.551
+
+Epoch: 50
+Train set | Loss : 0.53526 | Acc : 81.592
+Test  set | Loss : 0.65249 | Acc : 77.96
+
+Epoch: 51
+Train set | Loss : 0.53853 | Acc : 81.478
+Test  set | Loss : 0.6081 | Acc : 79.209
+
+Epoch: 52
+Train set | Loss : 0.5381 | Acc : 81.396
+Test  set | Loss : 0.63644 | Acc : 77.847
+
+Epoch: 53
+Train set | Loss : 0.52547 | Acc : 82.027
+Test  set | Loss : 0.59943 | Acc : 78.91
+
+Epoch: 54
+Train set | Loss : 0.5209 | Acc : 82.357
+Test  set | Loss : 0.78443 | Acc : 73.784
+
+Epoch: 55
+Train set | Loss : 0.52684 | Acc : 82.054
+Test  set | Loss : 0.70966 | Acc : 76.644
+
+Epoch: 56
+Train set | Loss : 0.52466 | Acc : 81.915
+Test  set | Loss : 0.57231 | Acc : 80.755
+
+Epoch: 57
+Train set | Loss : 0.52083 | Acc : 81.829
+Test  set | Loss : 0.61639 | Acc : 79.474
+
+Epoch: 58
+Train set | Loss : 0.52673 | Acc : 81.697
+Test  set | Loss : 0.6557 | Acc : 78.202
+
+Epoch: 59
+Train set | Loss : 0.51488 | Acc : 82.235
+Test  set | Loss : 0.83003 | Acc : 73.951
+
+Epoch: 60
+Train set | Loss : 0.52135 | Acc : 82.057
+Test  set | Loss : 0.66559 | Acc : 77.496
+
+Epoch: 61
+Train set | Loss : 0.52091 | Acc : 82.127
+Test  set | Loss : 0.66134 | Acc : 77.404
+
+Epoch: 62
+Train set | Loss : 0.51667 | Acc : 82.06
+Test  set | Loss : 0.6101 | Acc : 79.323
+
+Epoch: 63
+Train set | Loss : 0.51767 | Acc : 82.171
+Test  set | Loss : 0.6642 | Acc : 77.337
+
+Epoch: 64
+Train set | Loss : 0.51309 | Acc : 82.261
+Test  set | Loss : 0.5788 | Acc : 80.169
+Saving..
+
+Epoch: 65
+Train set | Loss : 0.51496 | Acc : 82.378
+Test  set | Loss : 0.64023 | Acc : 78.621
+
+Epoch: 66
+Train set | Loss : 0.5132 | Acc : 82.186
+Test  set | Loss : 0.66086 | Acc : 77.899
+
+Epoch: 67
+Train set | Loss : 0.49624 | Acc : 82.958
+Test  set | Loss : 0.68213 | Acc : 76.977
+
+Epoch: 68
+Train set | Loss : 0.5067 | Acc : 82.684
+Test  set | Loss : 0.59713 | Acc : 79.565
+
+Epoch: 69
+Train set | Loss : 0.49916 | Acc : 82.903
+Test  set | Loss : 0.58418 | Acc : 80.06
+
+Epoch: 70
+Train set | Loss : 0.50657 | Acc : 82.662
+Test  set | Loss : 0.70861 | Acc : 77.118
+
+Epoch: 71
+Train set | Loss : 0.49942 | Acc : 82.759
+Test  set | Loss : 0.69663 | Acc : 76.564
+
+Epoch: 72
+Train set | Loss : 0.48407 | Acc : 83.441
+Test  set | Loss : 0.58617 | Acc : 79.88
+
+Epoch: 73
+Train set | Loss : 0.49591 | Acc : 82.95
+Test  set | Loss : 0.53643 | Acc : 81.73
+Saving..
+
+Epoch: 74
+Train set | Loss : 0.48909 | Acc : 83.079
+Test  set | Loss : 0.68142 | Acc : 77.051
+
+Epoch: 75
+Train set | Loss : 0.4849 | Acc : 83.305
+Test  set | Loss : 0.83754 | Acc : 72.987
+
+Epoch: 76
+Train set | Loss : 0.48408 | Acc : 83.297
+Test  set | Loss : 0.68567 | Acc : 78.558
+
+Epoch: 77
+Train set | Loss : 0.49672 | Acc : 83.118
+Test  set | Loss : 0.65187 | Acc : 78.603
+
+Epoch: 78
+Train set | Loss : 0.48166 | Acc : 83.331
+Test  set | Loss : 0.59147 | Acc : 79.246
+
+Epoch: 79
+Train set | Loss : 0.48005 | Acc : 83.484
+Test  set | Loss : 0.56786 | Acc : 81.197
+
+Epoch: 80
+Train set | Loss : 0.47534 | Acc : 83.593
+Test  set | Loss : 0.69593 | Acc : 77.266
+
+Epoch: 81
+Train set | Loss : 0.47709 | Acc : 83.672
+Test  set | Loss : 0.63717 | Acc : 78.352
+
+Epoch: 82
+Train set | Loss : 0.46788 | Acc : 83.62
+Test  set | Loss : 0.58274 | Acc : 79.957
+
+Epoch: 83
+Train set | Loss : 0.4763 | Acc : 83.712
+Test  set | Loss : 0.59354 | Acc : 80.352
+
+Epoch: 84
+Train set | Loss : 0.47181 | Acc : 83.677
+Test  set | Loss : 0.61674 | Acc : 79.057
+
+Epoch: 85
+Train set | Loss : 0.46797 | Acc : 84.075
+Test  set | Loss : 0.61937 | Acc : 79.909
+
+Epoch: 86
+Train set | Loss : 0.45998 | Acc : 84.217
+Test  set | Loss : 0.62152 | Acc : 79.591
+
+Epoch: 87
+Train set | Loss : 0.4617 | Acc : 84.204
+Test  set | Loss : 0.56816 | Acc : 80.936
+
+Epoch: 88
+Train set | Loss : 0.45411 | Acc : 84.589
+Test  set | Loss : 0.54975 | Acc : 81.339
+
+Epoch: 89
+Train set | Loss : 0.4489 | Acc : 84.615
+Test  set | Loss : 0.5923 | Acc : 79.917
+
+Epoch: 90
+Train set | Loss : 0.45083 | Acc : 84.675
+Test  set | Loss : 0.58232 | Acc : 80.673
+
+Epoch: 91
+Train set | Loss : 0.45278 | Acc : 84.215
+Test  set | Loss : 0.61282 | Acc : 79.529
+
+Epoch: 92
+Train set | Loss : 0.44236 | Acc : 84.677
+Test  set | Loss : 0.61351 | Acc : 80.289
+
+Epoch: 93
+Train set | Loss : 0.43567 | Acc : 85.26
+Test  set | Loss : 0.5071 | Acc : 82.483
+Saving..
+
+Epoch: 94
+Train set | Loss : 0.43818 | Acc : 84.725
+Test  set | Loss : 0.59703 | Acc : 79.836
+
+Epoch: 95
+Train set | Loss : 0.43317 | Acc : 85.078
+Test  set | Loss : 0.46769 | Acc : 83.632
+Saving..
+
+Epoch: 96
+Train set | Loss : 0.43191 | Acc : 85.106
+Test  set | Loss : 0.5752 | Acc : 80.444
+
+Epoch: 97
+Train set | Loss : 0.43082 | Acc : 85.278
+Test  set | Loss : 0.57391 | Acc : 80.89
+
+Epoch: 98
+Train set | Loss : 0.42519 | Acc : 85.373
+Test  set | Loss : 0.57114 | Acc : 80.623
+
+Epoch: 99
+Train set | Loss : 0.43058 | Acc : 85.374
+Test  set | Loss : 0.67443 | Acc : 78.166
+
+Epoch: 100
+Train set | Loss : 0.42448 | Acc : 85.259
+Test  set | Loss : 0.5573 | Acc : 81.112
+
+Epoch: 101
+Train set | Loss : 0.42202 | Acc : 85.58
+Test  set | Loss : 0.58073 | Acc : 79.686
+
+Epoch: 102
+Train set | Loss : 0.41677 | Acc : 85.657
+Test  set | Loss : 0.53683 | Acc : 82.199
+
+Epoch: 103
+Train set | Loss : 0.41776 | Acc : 85.527
+Test  set | Loss : 0.69513 | Acc : 77.616
+
+Epoch: 104
+Train set | Loss : 0.4123 | Acc : 85.515
+Test  set | Loss : 0.4867 | Acc : 83.325
+
+Epoch: 105
+Train set | Loss : 0.41865 | Acc : 85.494
+Test  set | Loss : 0.49756 | Acc : 82.917
+
+Epoch: 106
+Train set | Loss : 0.40796 | Acc : 86.024
+Test  set | Loss : 0.51768 | Acc : 82.569
+
+Epoch: 107
+Train set | Loss : 0.4034 | Acc : 86.265
+Test  set | Loss : 0.51572 | Acc : 82.898
+
+Epoch: 108
+Train set | Loss : 0.40286 | Acc : 86.137
+Test  set | Loss : 0.53561 | Acc : 81.429
+
+Epoch: 109
+Train set | Loss : 0.39768 | Acc : 86.053
+Test  set | Loss : 0.57533 | Acc : 81.396
+
+Epoch: 110
+Train set | Loss : 0.39022 | Acc : 86.753
+Test  set | Loss : 0.50391 | Acc : 83.155
+
+Epoch: 111
+Train set | Loss : 0.38625 | Acc : 86.64
+Test  set | Loss : 0.52949 | Acc : 81.901
+
+Epoch: 112
+Train set | Loss : 0.38892 | Acc : 86.396
+Test  set | Loss : 0.4759 | Acc : 84.083
+Saving..
+
+Epoch: 113
+Train set | Loss : 0.3844 | Acc : 86.803
+Test  set | Loss : 0.57578 | Acc : 81.245
+
+Epoch: 114
+Train set | Loss : 0.37792 | Acc : 86.861
+Test  set | Loss : 0.49647 | Acc : 83.232
+
+Epoch: 115
+Train set | Loss : 0.37771 | Acc : 87.042
+Test  set | Loss : 0.53697 | Acc : 82.627
+
+Epoch: 116
+Train set | Loss : 0.38393 | Acc : 86.588
+Test  set | Loss : 0.59162 | Acc : 80.347
+
+Epoch: 117
+Train set | Loss : 0.37161 | Acc : 86.893
+Test  set | Loss : 0.47177 | Acc : 83.843
+
+Epoch: 118
+Train set | Loss : 0.36782 | Acc : 87.294
+Test  set | Loss : 0.45408 | Acc : 84.643
+Saving..
+
+Epoch: 119
+Train set | Loss : 0.36548 | Acc : 87.407
+Test  set | Loss : 0.60227 | Acc : 80.699
+
+Epoch: 120
+Train set | Loss : 0.36267 | Acc : 87.281
+Test  set | Loss : 0.48425 | Acc : 83.852
+
+Epoch: 121
+Train set | Loss : 0.35752 | Acc : 87.5
+Test  set | Loss : 0.48308 | Acc : 83.819
+
+Epoch: 122
+Train set | Loss : 0.35375 | Acc : 87.935
+Test  set | Loss : 0.4465 | Acc : 85.169
+Saving..
+
+Epoch: 123
+Train set | Loss : 0.35101 | Acc : 87.824
+Test  set | Loss : 0.43168 | Acc : 85.767
+Saving..
+
+Epoch: 124
+Train set | Loss : 0.34774 | Acc : 87.882
+Test  set | Loss : 0.52723 | Acc : 82.322
+
+Epoch: 125
+Train set | Loss : 0.33731 | Acc : 88.372
+Test  set | Loss : 0.47998 | Acc : 83.656
+
+Epoch: 126
+Train set | Loss : 0.34709 | Acc : 87.869
+Test  set | Loss : 0.5861 | Acc : 81.417
+
+Epoch: 127
+Train set | Loss : 0.33278 | Acc : 88.305
+Test  set | Loss : 0.54038 | Acc : 82.15
+
+Epoch: 128
+Train set | Loss : 0.33354 | Acc : 88.616
+Test  set | Loss : 0.49419 | Acc : 83.634
+
+Epoch: 129
+Train set | Loss : 0.32379 | Acc : 88.755
+Test  set | Loss : 0.4724 | Acc : 84.328
+
+Epoch: 130
+Train set | Loss : 0.33383 | Acc : 88.456
+Test  set | Loss : 0.44764 | Acc : 84.872
+
+Epoch: 131
+Train set | Loss : 0.31472 | Acc : 89.14
+Test  set | Loss : 0.45124 | Acc : 84.786
+
+Epoch: 132
+Train set | Loss : 0.31574 | Acc : 89.041
+Test  set | Loss : 0.46906 | Acc : 84.364
+
+Epoch: 133
+Train set | Loss : 0.31828 | Acc : 89.002
+Test  set | Loss : 0.43994 | Acc : 85.844
+Saving..
+
+Epoch: 134
+Train set | Loss : 0.30299 | Acc : 89.363
+Test  set | Loss : 0.45288 | Acc : 84.38
+
+Epoch: 135
+Train set | Loss : 0.30672 | Acc : 89.389
+Test  set | Loss : 0.43099 | Acc : 85.501
+
+Epoch: 136
+Train set | Loss : 0.29795 | Acc : 89.628
+Test  set | Loss : 0.43162 | Acc : 85.559
+
+Epoch: 137
+Train set | Loss : 0.28816 | Acc : 90.074
+Test  set | Loss : 0.42959 | Acc : 85.566
+Saving..
+
+Epoch: 138
+Train set | Loss : 0.28779 | Acc : 89.864
+Test  set | Loss : 0.4233 | Acc : 86.255
+
+Epoch: 139
+Train set | Loss : 0.28134 | Acc : 90.185
+Test  set | Loss : 0.43628 | Acc : 86.036
+
+Epoch: 140
+Train set | Loss : 0.27903 | Acc : 90.22
+Test  set | Loss : 0.48043 | Acc : 84.42
+
+Epoch: 141
+Train set | Loss : 0.27526 | Acc : 90.424
+Test  set | Loss : 0.43225 | Acc : 85.714
+
+Epoch: 142
+Train set | Loss : 0.27779 | Acc : 90.247
+Test  set | Loss : 0.45575 | Acc : 85.355
+
+Epoch: 143
+Train set | Loss : 0.26109 | Acc : 90.726
+Test  set | Loss : 0.40983 | Acc : 86.452
+Saving..
+
+Epoch: 144
+Train set | Loss : 0.26729 | Acc : 90.588
+Test  set | Loss : 0.44793 | Acc : 85.329
+
+Epoch: 145
+Train set | Loss : 0.26399 | Acc : 90.959
+Test  set | Loss : 0.44402 | Acc : 85.319
+
+Epoch: 146
+Train set | Loss : 0.26289 | Acc : 90.782
+Test  set | Loss : 0.37801 | Acc : 87.736
+Saving..
+
+Epoch: 147
+Train set | Loss : 0.25784 | Acc : 91.138
+Test  set | Loss : 0.44843 | Acc : 85.315
+
+Epoch: 148
+Train set | Loss : 0.25389 | Acc : 91.043
+Test  set | Loss : 0.44218 | Acc : 85.246
+
+Epoch: 149
+Train set | Loss : 0.23597 | Acc : 91.916
+Test  set | Loss : 0.4132 | Acc : 86.645
+
+Epoch: 150
+Train set | Loss : 0.24286 | Acc : 91.527
+Test  set | Loss : 0.44068 | Acc : 85.738
+
+Epoch: 151
+Train set | Loss : 0.22623 | Acc : 92.248
+Test  set | Loss : 0.42962 | Acc : 86.332
+
+Epoch: 152
+Train set | Loss : 0.2298 | Acc : 92.028
+Test  set | Loss : 0.47717 | Acc : 84.31
+
+Epoch: 153
+Train set | Loss : 0.2205 | Acc : 92.34
+Test  set | Loss : 0.41055 | Acc : 86.592
+
+Epoch: 154
+Train set | Loss : 0.21815 | Acc : 92.52
+Test  set | Loss : 0.40732 | Acc : 87.083
+
+Epoch: 155
+Train set | Loss : 0.20746 | Acc : 92.957
+Test  set | Loss : 0.40167 | Acc : 87.421
+
+Epoch: 156
+Train set | Loss : 0.21176 | Acc : 92.759
+Test  set | Loss : 0.39535 | Acc : 87.984
+Saving..
+
+Epoch: 157
+Train set | Loss : 0.20363 | Acc : 92.901
+Test  set | Loss : 0.41102 | Acc : 87.006
+
+Epoch: 158
+Train set | Loss : 0.19505 | Acc : 93.154
+Test  set | Loss : 0.38129 | Acc : 88.055
+
+Epoch: 159
+Train set | Loss : 0.18766 | Acc : 93.406
+Test  set | Loss : 0.39218 | Acc : 87.577
+
+Epoch: 160
+Train set | Loss : 0.18818 | Acc : 93.447
+Test  set | Loss : 0.39371 | Acc : 87.644
+
+Epoch: 161
+Train set | Loss : 0.1806 | Acc : 93.742
+Test  set | Loss : 0.37338 | Acc : 88.194
+Saving..
+
+Epoch: 162
+Train set | Loss : 0.17728 | Acc : 93.897
+Test  set | Loss : 0.37886 | Acc : 87.693
+
+Epoch: 163
+Train set | Loss : 0.17402 | Acc : 93.937
+Test  set | Loss : 0.39171 | Acc : 87.393
+
+Epoch: 164
+Train set | Loss : 0.16702 | Acc : 94.076
+Test  set | Loss : 0.36649 | Acc : 89.084
+Saving..
+
+Epoch: 165
+Train set | Loss : 0.16403 | Acc : 94.382
+Test  set | Loss : 0.37501 | Acc : 88.641
+Saving..
+
+Epoch: 166
+Train set | Loss : 0.15302 | Acc : 94.561
+Test  set | Loss : 0.37245 | Acc : 88.725
+
+Epoch: 167
+Train set | Loss : 0.14497 | Acc : 95.085
+Test  set | Loss : 0.37607 | Acc : 88.322
+
+Epoch: 168
+Train set | Loss : 0.14269 | Acc : 94.977
+Test  set | Loss : 0.36219 | Acc : 88.922
+
+Epoch: 169
+Train set | Loss : 0.13129 | Acc : 95.449
+Test  set | Loss : 0.3604 | Acc : 89.111
+Saving..
+
+Epoch: 170
+Train set | Loss : 0.12657 | Acc : 95.646
+Test  set | Loss : 0.36729 | Acc : 88.906
+
+Epoch: 171
+Train set | Loss : 0.12491 | Acc : 95.59
+Test  set | Loss : 0.36692 | Acc : 88.497
+
+Epoch: 172
+Train set | Loss : 0.11729 | Acc : 95.912
+Test  set | Loss : 0.36923 | Acc : 89.096
+Saving..
+
+Epoch: 173
+Train set | Loss : 0.1166 | Acc : 95.939
+Test  set | Loss : 0.38164 | Acc : 88.486
+
+Epoch: 174
+Train set | Loss : 0.11357 | Acc : 96.132
+Test  set | Loss : 0.37076 | Acc : 88.951
+
+Epoch: 175
+Train set | Loss : 0.10541 | Acc : 96.26
+Test  set | Loss : 0.37554 | Acc : 88.963
+
+Epoch: 176
+Train set | Loss : 0.09767 | Acc : 96.581
+Test  set | Loss : 0.37006 | Acc : 89.153
+
+Epoch: 177
+Train set | Loss : 0.09307 | Acc : 96.904
+Test  set | Loss : 0.36381 | Acc : 89.608
+Saving..
+
+Epoch: 178
+Train set | Loss : 0.08765 | Acc : 96.983
+Test  set | Loss : 0.37301 | Acc : 89.319
+
+Epoch: 179
+Train set | Loss : 0.08522 | Acc : 97.137
+Test  set | Loss : 0.3594 | Acc : 89.617
+
+Epoch: 180
+Train set | Loss : 0.08046 | Acc : 97.318
+Test  set | Loss : 0.36605 | Acc : 89.879
+Saving..
+
+Epoch: 181
+Train set | Loss : 0.07571 | Acc : 97.559
+Test  set | Loss : 0.36611 | Acc : 89.806
+Saving..
+
+Epoch: 182
+Train set | Loss : 0.0686 | Acc : 97.688
+Test  set | Loss : 0.3571 | Acc : 90.108
+
+Epoch: 183
+Train set | Loss : 0.07197 | Acc : 97.594
+Test  set | Loss : 0.3667 | Acc : 89.669
+
+Epoch: 184
+Train set | Loss : 0.06473 | Acc : 97.856
+Test  set | Loss : 0.36441 | Acc : 90.002
+
+Epoch: 185
+Train set | Loss : 0.06264 | Acc : 97.93
+Test  set | Loss : 0.35508 | Acc : 90.041
+Saving..
+
+Epoch: 186
+Train set | Loss : 0.05686 | Acc : 98.175
+Test  set | Loss : 0.36088 | Acc : 90.094
+
+Epoch: 187
+Train set | Loss : 0.05539 | Acc : 98.229
+Test  set | Loss : 0.35796 | Acc : 90.126
+
+Epoch: 188
+Train set | Loss : 0.05427 | Acc : 98.277
+Test  set | Loss : 0.36314 | Acc : 90.081
+
+Epoch: 189
+Train set | Loss : 0.05155 | Acc : 98.307
+Test  set | Loss : 0.36257 | Acc : 90.435
+Saving..
+
+Epoch: 190
+Train set | Loss : 0.04808 | Acc : 98.435
+Test  set | Loss : 0.3693 | Acc : 90.016
+
+Epoch: 191
+Train set | Loss : 0.04776 | Acc : 98.532
+Test  set | Loss : 0.36768 | Acc : 90.241
+
+Epoch: 192
+Train set | Loss : 0.0471 | Acc : 98.583
+Test  set | Loss : 0.36538 | Acc : 90.2
+Saving..
+
+Epoch: 193
+Train set | Loss : 0.04428 | Acc : 98.621
+Test  set | Loss : 0.36565 | Acc : 90.233
+Saving..
+
+Epoch: 194
+Train set | Loss : 0.04589 | Acc : 98.555
+Test  set | Loss : 0.3678 | Acc : 90.058
+
+Epoch: 195
+Train set | Loss : 0.04305 | Acc : 98.652
+Test  set | Loss : 0.36591 | Acc : 90.121
+
+Epoch: 196
+Train set | Loss : 0.0439 | Acc : 98.617
+Test  set | Loss : 0.36685 | Acc : 90.113
+
+Epoch: 197
+Train set | Loss : 0.0431 | Acc : 98.678
+Test  set | Loss : 0.36584 | Acc : 90.222
+
+Epoch: 198
+Train set | Loss : 0.04114 | Acc : 98.792
+Test  set | Loss : 0.36635 | Acc : 90.135
+
+Epoch: 199
+Train set | Loss : 0.04296 | Acc : 98.633
+Test  set | Loss : 0.36614 | Acc : 90.18
+
+Epoch: 200
+Train set | Loss : 0.04109 | Acc : 98.719
+Test  set | Loss : 0.36548 | Acc : 90.197
+
+Epoch: 201
+Train set | Loss : 0.0417 | Acc : 98.664
+Test  set | Loss : 0.36434 | Acc : 90.23
+
+Epoch: 202
+Train set | Loss : 0.04122 | Acc : 98.753
+Test  set | Loss : 0.36417 | Acc : 90.017
+
+Epoch: 203
+Train set | Loss : 0.04242 | Acc : 98.613
+Test  set | Loss : 0.36724 | Acc : 90.194
+
+Epoch: 204
+Train set | Loss : 0.04201 | Acc : 98.639
+Test  set | Loss : 0.36284 | Acc : 90.088
+
+Epoch: 205
+Train set | Loss : 0.04271 | Acc : 98.704
+Test  set | Loss : 0.36569 | Acc : 90.227
+
+Epoch: 206
+Train set | Loss : 0.04208 | Acc : 98.661
+Test  set | Loss : 0.3622 | Acc : 90.217
+
+Epoch: 207
+Train set | Loss : 0.04328 | Acc : 98.641
+Test  set | Loss : 0.36699 | Acc : 90.21
+
+Epoch: 208
+Train set | Loss : 0.04298 | Acc : 98.702
+Test  set | Loss : 0.3657 | Acc : 90.409
+Saving..
+
+Epoch: 209
+Train set | Loss : 0.04237 | Acc : 98.664
+Test  set | Loss : 0.36853 | Acc : 90.248
+
+Epoch: 210
+Train set | Loss : 0.04232 | Acc : 98.6
+Test  set | Loss : 0.37095 | Acc : 90.043
+
+Epoch: 211
+Train set | Loss : 0.04177 | Acc : 98.696
+Test  set | Loss : 0.36772 | Acc : 90.17
+
+Epoch: 212
+Train set | Loss : 0.04408 | Acc : 98.638
+Test  set | Loss : 0.37746 | Acc : 89.701
+
+Epoch: 213
+Train set | Loss : 0.0438 | Acc : 98.658
+Test  set | Loss : 0.38174 | Acc : 89.821
+
+Epoch: 214
+Train set | Loss : 0.04557 | Acc : 98.528
+Test  set | Loss : 0.37174 | Acc : 89.871
+
+Epoch: 215
+Train set | Loss : 0.04871 | Acc : 98.378
+Test  set | Loss : 0.37758 | Acc : 89.81
+
+Epoch: 216
+Train set | Loss : 0.04933 | Acc : 98.355
+Test  set | Loss : 0.37553 | Acc : 90.033
+
+Epoch: 217
+Train set | Loss : 0.05472 | Acc : 98.184
+Test  set | Loss : 0.39232 | Acc : 89.861
+
+Epoch: 218
+Train set | Loss : 0.05842 | Acc : 98.017
+Test  set | Loss : 0.39047 | Acc : 89.302
+
+Epoch: 219
+Train set | Loss : 0.05849 | Acc : 98.086
+Test  set | Loss : 0.40758 | Acc : 89.445
+
+Epoch: 220
+Train set | Loss : 0.06205 | Acc : 97.961
+Test  set | Loss : 0.39399 | Acc : 89.737
+
+Epoch: 221
+Train set | Loss : 0.07026 | Acc : 97.516
+Test  set | Loss : 0.40308 | Acc : 89.326
+
+Epoch: 222
+Train set | Loss : 0.07872 | Acc : 97.211
+Test  set | Loss : 0.41086 | Acc : 88.603
+
+Epoch: 223
+Train set | Loss : 0.08488 | Acc : 97.002
+Test  set | Loss : 0.4004 | Acc : 89.149
+
+Epoch: 224
+Train set | Loss : 0.09065 | Acc : 96.85
+Test  set | Loss : 0.4128 | Acc : 88.514
+
+Epoch: 225
+Train set | Loss : 0.09927 | Acc : 96.562
+Test  set | Loss : 0.42057 | Acc : 88.747
+
+Epoch: 226
+Train set | Loss : 0.11195 | Acc : 95.978
+Test  set | Loss : 0.41336 | Acc : 88.126
+
+Epoch: 227
+Train set | Loss : 0.10932 | Acc : 96.317
+Test  set | Loss : 0.41164 | Acc : 88.493
+
+Epoch: 228
+Train set | Loss : 0.12861 | Acc : 95.564
+Test  set | Loss : 0.41375 | Acc : 88.194
+
+Epoch: 229
+Train set | Loss : 0.12773 | Acc : 95.48
+Test  set | Loss : 0.44301 | Acc : 87.36
+
+Epoch: 230
+Train set | Loss : 0.14367 | Acc : 94.933
+Test  set | Loss : 0.42978 | Acc : 87.441
+
+Epoch: 231
+Train set | Loss : 0.1474 | Acc : 94.692
+Test  set | Loss : 0.41347 | Acc : 88.094
+
+Epoch: 232
+Train set | Loss : 0.1526 | Acc : 94.658
+Test  set | Loss : 0.39855 | Acc : 87.88
+
+Epoch: 233
+Train set | Loss : 0.16209 | Acc : 94.326
+Test  set | Loss : 0.40332 | Acc : 87.854
+
+Epoch: 234
+Train set | Loss : 0.16897 | Acc : 94.085
+Test  set | Loss : 0.40752 | Acc : 87.824
+
+Epoch: 235
+Train set | Loss : 0.17745 | Acc : 93.739
+Test  set | Loss : 0.41815 | Acc : 87.234
+
+Epoch: 236
+Train set | Loss : 0.18754 | Acc : 93.397
+Test  set | Loss : 0.42158 | Acc : 86.458
+
+Epoch: 237
+Train set | Loss : 0.18564 | Acc : 93.48
+Test  set | Loss : 0.40983 | Acc : 86.784
+
+Epoch: 238
+Train set | Loss : 0.19863 | Acc : 93.036
+Test  set | Loss : 0.4244 | Acc : 87.108
+
+Epoch: 239
+Train set | Loss : 0.2031 | Acc : 92.804
+Test  set | Loss : 0.40961 | Acc : 86.608
+
+Epoch: 240
+Train set | Loss : 0.20844 | Acc : 92.602
+Test  set | Loss : 0.42759 | Acc : 86.612
+
+Epoch: 241
+Train set | Loss : 0.21122 | Acc : 92.693
+Test  set | Loss : 0.40993 | Acc : 86.712
+
+Epoch: 242
+Train set | Loss : 0.22098 | Acc : 92.192
+Test  set | Loss : 0.42561 | Acc : 86.588
+
+Epoch: 243
+Train set | Loss : 0.22639 | Acc : 92.078
+Test  set | Loss : 0.42724 | Acc : 86.323
+
+Epoch: 244
+Train set | Loss : 0.2308 | Acc : 91.731
+Test  set | Loss : 0.48021 | Acc : 84.566
+
+Epoch: 245
+Train set | Loss : 0.2341 | Acc : 91.859
+Test  set | Loss : 0.46737 | Acc : 84.878
+
+Epoch: 246
+Train set | Loss : 0.23785 | Acc : 91.687
+Test  set | Loss : 0.44509 | Acc : 86.079
+
+Epoch: 247
+Train set | Loss : 0.24121 | Acc : 91.427
+Test  set | Loss : 0.42905 | Acc : 85.81
+
+Epoch: 248
+Train set | Loss : 0.23847 | Acc : 91.615
+Test  set | Loss : 0.45882 | Acc : 85.544
+
+Epoch: 249
+Train set | Loss : 0.2513 | Acc : 91.075
+Test  set | Loss : 0.42347 | Acc : 86.207
+
+Epoch: 250
+Train set | Loss : 0.2584 | Acc : 91.035
+Test  set | Loss : 0.47842 | Acc : 84.955
+
+Epoch: 251
+Train set | Loss : 0.25812 | Acc : 90.907
+Test  set | Loss : 0.47069 | Acc : 85.078
+
+Epoch: 252
+Train set | Loss : 0.2564 | Acc : 91.003
+Test  set | Loss : 0.44969 | Acc : 85.981
+
+Epoch: 253
+Train set | Loss : 0.2552 | Acc : 91.148
+Test  set | Loss : 0.56468 | Acc : 82.861
+
+Epoch: 254
+Train set | Loss : 0.26315 | Acc : 90.658
+Test  set | Loss : 0.48426 | Acc : 84.869
+
+Epoch: 255
+Train set | Loss : 0.2609 | Acc : 90.917
+Test  set | Loss : 0.50634 | Acc : 83.27
+
+Epoch: 256
+Train set | Loss : 0.26681 | Acc : 90.772
+Test  set | Loss : 0.48067 | Acc : 84.572
+
+Epoch: 257
+Train set | Loss : 0.2724 | Acc : 90.492
+Test  set | Loss : 0.48043 | Acc : 84.68
+
+Epoch: 258
+Train set | Loss : 0.2816 | Acc : 90.255
+Test  set | Loss : 0.44959 | Acc : 85.562
+
+Epoch: 259
+Train set | Loss : 0.28006 | Acc : 90.281
+Test  set | Loss : 0.52415 | Acc : 83.767
+
+Epoch: 260
+Train set | Loss : 0.28014 | Acc : 90.284
+Test  set | Loss : 0.43514 | Acc : 85.367
+
+Epoch: 261
+Train set | Loss : 0.2816 | Acc : 90.176
+Test  set | Loss : 0.47801 | Acc : 84.531
+
+Epoch: 262
+Train set | Loss : 0.28603 | Acc : 89.967
+Test  set | Loss : 0.43063 | Acc : 85.886
+
+Epoch: 263
+Train set | Loss : 0.28915 | Acc : 90.064
+Test  set | Loss : 0.51266 | Acc : 83.359
+
+Epoch: 264
+Train set | Loss : 0.30593 | Acc : 89.342
+Test  set | Loss : 0.47179 | Acc : 84.843
+
+Epoch: 265
+Train set | Loss : 0.29778 | Acc : 89.587
+Test  set | Loss : 0.47002 | Acc : 84.963
+
+Epoch: 266
+Train set | Loss : 0.2966 | Acc : 89.471
+Test  set | Loss : 0.42799 | Acc : 85.807
+
+Epoch: 267
+Train set | Loss : 0.29542 | Acc : 89.617
+Test  set | Loss : 0.43757 | Acc : 85.875
+
+Epoch: 268
+Train set | Loss : 0.31217 | Acc : 89.151
+Test  set | Loss : 0.46847 | Acc : 84.706
+
+Epoch: 269
+Train set | Loss : 0.30615 | Acc : 89.347
+Test  set | Loss : 0.45737 | Acc : 84.66
+
+Epoch: 270
+Train set | Loss : 0.31131 | Acc : 89.136
+Test  set | Loss : 0.46476 | Acc : 84.863
+
+Epoch: 271
+Train set | Loss : 0.30968 | Acc : 89.225
+Test  set | Loss : 0.4464 | Acc : 85.333
+
+Epoch: 272
+Train set | Loss : 0.31686 | Acc : 89.085
+Test  set | Loss : 0.54592 | Acc : 82.49
+
+Epoch: 273
+Train set | Loss : 0.3213 | Acc : 88.998
+Test  set | Loss : 0.45919 | Acc : 84.434
+
+Epoch: 274
+Train set | Loss : 0.3214 | Acc : 88.709
+Test  set | Loss : 0.49324 | Acc : 83.761
+
+Epoch: 275
+Train set | Loss : 0.33217 | Acc : 88.554
+Test  set | Loss : 0.4504 | Acc : 85.216
+
+Epoch: 276
+Train set | Loss : 0.3437 | Acc : 88.07
+Test  set | Loss : 0.51858 | Acc : 84.028
+
+Epoch: 277
+Train set | Loss : 0.33968 | Acc : 88.307
+Test  set | Loss : 0.56146 | Acc : 82.167
+
+Epoch: 278
+Train set | Loss : 0.33067 | Acc : 88.532
+Test  set | Loss : 0.57604 | Acc : 81.793
+
+Epoch: 279
+Train set | Loss : 0.34521 | Acc : 87.876
+Test  set | Loss : 0.54524 | Acc : 81.997
+
+Epoch: 280
+Train set | Loss : 0.34384 | Acc : 88.107
+Test  set | Loss : 0.4833 | Acc : 83.315
+
+Epoch: 281
+Train set | Loss : 0.34915 | Acc : 87.788
+Test  set | Loss : 0.57668 | Acc : 80.999
+
+Epoch: 282
+Train set | Loss : 0.35159 | Acc : 87.669
+Test  set | Loss : 0.48901 | Acc : 84.234
+
+Epoch: 283
+Train set | Loss : 0.35087 | Acc : 87.727
+Test  set | Loss : 0.50878 | Acc : 83.486
+
+Epoch: 284
+Train set | Loss : 0.35692 | Acc : 87.643
+Test  set | Loss : 0.47866 | Acc : 84.24
+
+Epoch: 285
+Train set | Loss : 0.34676 | Acc : 87.863
+Test  set | Loss : 0.48047 | Acc : 84.362
+
+Epoch: 286
+Train set | Loss : 0.36539 | Acc : 87.307
+Test  set | Loss : 0.51921 | Acc : 83.613
+
+Epoch: 287
+Train set | Loss : 0.37411 | Acc : 87.103
+Test  set | Loss : 0.6734 | Acc : 79.014
+
+Epoch: 288
+Train set | Loss : 0.35697 | Acc : 87.717
+Test  set | Loss : 0.47763 | Acc : 84.056
+
+Epoch: 289
+Train set | Loss : 0.3626 | Acc : 87.27
+Test  set | Loss : 0.50702 | Acc : 83.948
+
+Epoch: 290
+Train set | Loss : 0.3735 | Acc : 87.165
+Test  set | Loss : 0.52951 | Acc : 82.616
+
+Epoch: 291
+Train set | Loss : 0.37668 | Acc : 87.154
+Test  set | Loss : 0.59597 | Acc : 80.865
+
+Epoch: 292
+Train set | Loss : 0.3741 | Acc : 87.122
+Test  set | Loss : 0.48945 | Acc : 83.734
+
+Epoch: 293
+Train set | Loss : 0.38055 | Acc : 86.834
+Test  set | Loss : 0.50796 | Acc : 83.468
+
+Epoch: 294
+Train set | Loss : 0.37843 | Acc : 86.85
+Test  set | Loss : 0.59221 | Acc : 80.977
+
+Epoch: 295
+Train set | Loss : 0.37826 | Acc : 86.839
+Test  set | Loss : 0.5125 | Acc : 82.803
+
+Epoch: 296
+Train set | Loss : 0.38786 | Acc : 86.586
+Test  set | Loss : 0.48877 | Acc : 83.968
+
+Epoch: 297
+Train set | Loss : 0.38375 | Acc : 86.836
+Test  set | Loss : 0.59521 | Acc : 80.052
+
+Epoch: 298
+Train set | Loss : 0.39511 | Acc : 86.381
+Test  set | Loss : 0.49326 | Acc : 83.609
+
+Epoch: 299
+Train set | Loss : 0.3893 | Acc : 86.482
+Test  set | Loss : 0.69951 | Acc : 77.961
