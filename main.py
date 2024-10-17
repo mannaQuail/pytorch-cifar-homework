@@ -56,7 +56,7 @@ classes = ('plane', 'car', 'bird', 'cat', 'deer',
 print('==> Building model..')
 # net = VGG('VGG19')
 # net = ResNet18()
-net = ResNet32()
+net = ResNet20()
 # net = PreActResNet18()
 # net = GoogLeNet()
 # net = DenseNet121()
